@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: AETERNVM VACUVM V6.3.1 - FAST FASHI DR2 10 Proofs
+message: If you use this software, please cite it as below.
+type: software
+authors:
+    - family-names: Condé
+    given-names: Gustavo Alves
+    orcid: https://orcid.org/0009-0003-9173-363X
+identifiers:
+    - type: doi
+    value: 10.5281/zenodo.22735900
+repository-code: https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P
+keywords: [vacuum, FAST, HI, Z0 376.73, Beltrami, helicity, S_inst 280]
+license: CC-BY-4.0
