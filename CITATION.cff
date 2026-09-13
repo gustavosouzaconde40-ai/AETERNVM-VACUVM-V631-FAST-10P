@@ -1,18 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "AETERNVM VACUVM V6.3.3 - FAST FASHI DR2 10 Proofs"
-version: v6.3.4-CFF-FIX
+version: 6.3.4
 date-released: 2026-09-13
 type: software
 authors:
-    - family-names: "Conde"
-    given-names: "Gustavo Alves"
-    orcid: "https://orcid.org/0009-0003-9173-363X"
-repository-code: "https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P"
+    - family-names: Conde
+    given-names: Gustavo Alves
 license: CC-BY-4.0
-keywords:
-    - "vacuum"
-    - "FAST"
-    - "FASHI"
-    - "Z0"
-    - "Beltrami"
+repository-code: https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P
