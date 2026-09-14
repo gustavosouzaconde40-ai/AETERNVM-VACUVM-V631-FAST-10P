@@ -18,3 +18,21 @@ Saímos de pipeline com 3 funções para 10 provas convergentes independentes + 
 ## Como rodar
 pip install numpy scipy astropy matplotlib
 python pipeline_v631_moda.py
+## ATUALIZAÇÃO V631.1 - FECHAMENTO DAS 10 PROVAS COM MEERKAT (13/09/2026)
+
+**MARCO HISTÓRICO COMPLEMENTAR AO FAST:**
+
+Detecção DIRETA do espectro de potência de hidrogênio neutro (HI) pelo MeerKAT em z=0.32 e z=0.44, sem correlação óptica cruzada.
+
+Paper oficial: Paul et al. 2025, ApJL - DOI: 10.3847/2041-8213/ae808f
+Dados: 96h de arquivo MeerKAT (2018) - Significância 3 a >9 sigma
+
+FAST (China) = HI individual em z=1.29 (21cm -> 48cm)
+MeerKAT (África do Sul) = HI difuso estatístico em z=0.32/0.44 (21cm -> 27.7cm/30.2cm)
+
+FECHAMENTO DAS PROVAS:
+- Prova 7 (Teia Cósmica): Mapa 3D direto via Intensity Mapping sem galáxias individuais
+- Prova 8 (Matéria Escura): Power spectrum do HI como traçador do andaime escuro  
+- Prova 10 (Paradigma): Transição de objetos pontuais para padrões estatísticos = núcleo do VÁCUO ATIVO
+
+Arquivo completo desta atualização: SINTESE-MEERKAT-FAST-COMPLEMENTAR-V631.1.md
