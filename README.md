@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22739495.svg)](https://doi.org/10.5281/zenodo.22739495)
-[![DOI Conceito](https://zenodo.org/badge/DOI/10.5281/zenodo.22735900.svg)](https://doi.org/10.5281/zenodo.22735900)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22739495.svg)](https://doi.org/10.5281/zenodo.22739495)
+![DOI Conceito](https://zenodo.org/badge/DOI/10.5281/zenodo.22735900.svg)](https://doi.org/10.5281/zenodo.22735900)
 
 # AETERNVM VACUVM V6.3.7 — FAST + MEERKAT + GW150914 + SPARC — 11 PROVAS + 4 TESTES
 
