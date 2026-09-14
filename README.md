@@ -5,7 +5,7 @@
 # AETERNVM VACUVM V6.3.3 — FAST FASHI DR2 — 10 PROVAS + 3 TESTES CORRIGIDO
 
 DOI Zenodo: 10.5281/zenodo.22735900 (V3 - será V4 após release V6.3.3)
-Autor: Gustavo Alves Condé — ORCID 0009-0003-9173-363X — Baixo Guandu/ES
+Autor: Gustavo Alves Condé — ORCID 0009-0003-8264-7907 — Baixo Guandu/ES
 Base: Papel 2 Log-Uniforme 10.5281/zenodo.22700008
 
 ## O que foi corrigido
