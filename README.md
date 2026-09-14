@@ -21,11 +21,13 @@ Saímos de pipeline com 3 funções para 11 provas convergentes independentes + 
 **4 Testes:** T1 logp>1 em DR2 real, T2 H0 65-78, T3 k invariante, T4 γ_trad=4.333 vs γ_AET=3.967 Δγ=-0.367 Γ=0.12 NANOGrav/SKA
 
 ## Como rodar
+```bash
 pip install numpy scipy astropy matplotlib
 python pipeline_v631_moda.py
 python emulacao_meerkat_Pk.py
 python emulacao_GW150914_T4.py
 python emulacao_SPARC_RAR.py
+```
 
 ## CAMADA SPARC - PAPER 2 - 3 TESTES
 
