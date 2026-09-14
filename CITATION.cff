@@ -3,12 +3,7 @@ message: "If you use this software, please cite it as below."
 title: "AETERNVM VACUVM V631 FAST 10P"
 version: 6.3.5
 date-released: 2026-09-13
-type: software
 authors:
-    - family-names: "Conde"
-    given-names: "Gustavo Alves"
-    orcid: "https://orcid.org/0009-0003-9173-363X"
-license: CC-BY-4.0
-repository-code: "https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P"
-abstract: "FAST FASHI DR2 156.411 HI - Z0=376.73Ohm k=8.45 - 10 Provas + 3 Testes"
-keywords: ["FAST", "FASHI-DR2", "vacuum", "Z0"]
+    - family-names: Conde
+    given-names: Gustavo Alves
+    orcid: https://orcid.org/0009-0003-9173-363X
