@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-message: "Se você usar este software, por favor, cite-o conforme abaixo."
+message: "If you use this software, please cite it as below."
+title: "AETERNVM VACUVM V6.3.5 - FAST FASHI DR2"
+version: 6.3.5
+date-released: 2026-09-13
 type: software
 authors:
-  - family-names: Condé
+    - family-names: Conde
     given-names: Gustavo Alves
-    orcid: 'https://orcid.org/0009-0003-9173-363X'
-title: "AETERNVM VACUVM V6.3.1 - FAST 10P"
-version: "v6.3.4-10P-3T-FINAL"
-date-released: 2026-09-13
+    orcid: https://orcid.org/0009-0003-9173-363X
+license: CC-BY-4.0
+repository-code: https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P
