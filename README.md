@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22739495.svg)](https://doi.org/10.5281/zenodo.22739495)
+
+[![DOI Conceito](https://zenodo.org/badge/DOI/10.5281/zenodo.22735900.svg)](https://doi.org/10.5281/zenodo.22735900)
+
 # AETERNVM VACUVM V6.3.3 — FAST FASHI DR2 — 10 PROVAS + 3 TESTES CORRIGIDO
 
 DOI Zenodo: 10.5281/zenodo.22735900 (V3 - será V4 após release V6.3.3)
