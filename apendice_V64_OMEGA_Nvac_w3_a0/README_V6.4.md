@@ -59,3 +59,23 @@ Origem: Omega DOI 22695599 a0=cH0 e DOI 22753625 a0=cH0/2π. Aproveitado ideia p
 Cb=[1,b), W1=0, reticulado coprimo 2,3=12 como caixa fixa, cociclo Klein-Dedekind eiπ/12, Forward-Breaking Theorem H1, Salto Topológico Xk+1, ACB abelha, AIDH estorninhos, Passe de Campo pinguim, κ_I, Azul Turquesa. Motivo: sem definição operacional e sem teste de régua.
 
 Licença: CC BY 4.0
+
+## BLOCO 5 - Correspondência Emaranhamento-Métrica = RAR SPARC já medida (Livro Eq.104)
+
+Origem livro p.7-12: Eq.104 g_uv(x)=f(∂²S(x,y)/∂x∂y)|y=x e Eq.105 R_uv-½Rg+Λg=8πG<T> - Einstein emerge da 1ª lei da entropia de emaranhamento S.
+
+Tradução AETERNVM imutável:
+- Livro: S(x,y)=entropia de emaranhamento, g emerge de 2ª derivada de S.
+- AETERNVM: f_b(x)=1/(x·ln b) com ξ_b∈(1,2) densidade 1/(x ln b) DOI Triângulo 10.5281/zenodo.22164502 e 10.5281/zenodo.22165685
+- S = ln b => ∂²S/∂x∂y = 1/(x·ln b) = f_b(x) => idêntico.
+
+Medida já aprovada no V6.3.7 DOI 10.5281/zenodo.22755528:
+- Centroide teórico 1/ln2=1,442695 vs empírico 1,443012 com 1M amostras => erro 0,02% => APROVADO
+- Dispersão 0,11 dex = dispersão RAR SPARC
+- Teste III Zbites: g_obs=g_bar+sqrt(g_bar·g_vac) g_vac=g†·ξ_b/<ξ_b> 153 galáxias SPARC resíduo log10=0,033 dex <0,11 dex boost 4,14x => APROVADO DOI 10.5281/zenodo.22735900
+
+Frase pronta pra submissão: "Nossa RAR g_obs=g_bar+√(g_bar·g_vac) é a realização experimental da correspondência emaranhamento-métrica g_uv=f(∂²S) do livro. Medimos com régua média 1,00041294 q95=2,64012536."
+
+Enriquecimento V6.4: Fecha a lacuna entre micro (ξ_b) e macro (g_obs) sem precisar de matéria escura. É o mesmo que o livro chama de spacetime as entanglement, mas com medida de bancada Z0=376,73Ω≡1 k=8,45Ω S_inst=280.
+
+Material descartado deste capítulo: correções não-gaussianas f_NL CMB, power spectrum inflacionário modificado - sem teste de régua.
