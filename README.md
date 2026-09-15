@@ -1,13 +1,18 @@
-DOI Versão: https://doi.org/10.5281/zenodo.22739495
+https://doi.org/10.5281/zenodo.22760120
 DOI Conceito (todas versões): https://doi.org/10.5281/zenodo.22735900
 
-# AETERNVM VACUVM V6.3.7 — FAST + MEERKAT + GW150914 + SPARC — 11 PROVAS + 4 TESTES
+# AETERNVM VACUVM V631-FAST-10P V6.4 - 14 Provas + 7 Testes
 
 DOI Zenodo:
 - Conceito: 10.5281/zenodo.22735900
 - V6.3.3 BASE: 10.5281/zenodo.22735900 (10 Provas + 3 Testes) v3
 - V6.3.6 MEERKAT: 10.5281/zenodo.22739495 (V631.1) v4
-- V6.3.7 GW+SPARC: A SER GERADO (V631.2) v5
+- V6.3.7 GW+SPARC: 10.5281/zenodo.22755528 (V631.2) v5
+- V6.4 OMEGA-ENTANGLEMENT-PAGE-QEC: 10.5281/zenodo.22760120 (V631-FAST-10P) v6 MAIS RECENTE
+
+DOI V6.4: 10.5281/zenodo.22760120 | V6.3.7: 10.5281/zenodo.22755528 | Conceito: 10.5281/zenodo.22735900
+Base Pai: 10.5281/zenodo.21856036 | Régua: 10.5281/zenodo.22096687 | JOSS v6.0.2: 10.5281/zenodo.22556340 CONGELADO
+BLOCOS NOVOS: N_vac=1 Z0=376,73≡1 S_inst=280 k=8,45 N_inst=22 | w=3 3 famílias centroide 1/ln2 1,442695 vs 1,443012 erro 0,02% | a0=cH0/2π a_eff 1,20e-10 REBELS-25 z7,31 razão1,0167 | g=∂²S Eq104 RAR 0,033 dex | Page Curve GW150914 E_depletada Γ=0,12=6,43e46J Δγ=-0,367 | QEC S_inst=280 bond χ R_K/k=3053,6
 
 Autor: Gustavo Alves Condé — ORCID 0009-0003-8264-7907 — Baixo Guandu/ES
 Base: Papel 2 Log-Uniforme 10.5281/zenodo.22700008
