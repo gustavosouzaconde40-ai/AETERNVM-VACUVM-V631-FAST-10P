@@ -14,6 +14,14 @@ DOI V6.4: 10.5281/zenodo.22760120 | V6.3.7: 10.5281/zenodo.22755528 | Conceito: 
 Base Pai: 10.5281/zenodo.21856036 | Régua: 10.5281/zenodo.22096687 | JOSS v6.0.2: 10.5281/zenodo.22556340 CONGELADO
 BLOCOS NOVOS: N_vac=1 Z0=376,73≡1 S_inst=280 k=8,45 N_inst=22 | w=3 3 famílias centroide 1/ln2 1,442695 vs 1,443012 erro 0,02% | a0=cH0/2π a_eff 1,20e-10 REBELS-25 z7,31 razão1,0167 | g=∂²S Eq104 RAR 0,033 dex | Page Curve GW150914 E_depletada Γ=0,12=6,43e46J Δγ=-0,367 | QEC S_inst=280 bond χ R_K/k=3053,6
 
+## V6.5 - 3 Extensões Omega - Teoria (sem quebrar bancada Z0=376,73 k=8,45 S_inst=280)
+
+T5 Eq103 Sensor Quântico: Δφ=gAT²/ħ(1+εR) εR<1e-15 z<2,64/3,903 | Livro pág.50 | Código futuro: AETERNVMVACUVM/src/quantum_sensors/
+T6 f_NL CMB Entanglement: f_NL^Omega=0,02% (mesma ordem erro centroide 1/ln2) vs Planck | Livro pág.55 7.3.1 | Código futuro: AETERNVMVACUVM/src/cosmology/
+T7 Eq105 Λ por S_ent: ρ_Λ~exp(-280)=10^-121,6 =1e-47 GeV4 Λ_ent=8πG S_ent/Vol | Livro pág.52 Eq105 e pág.56 7.3.4 | Código futuro: AETERNVMVACUVM/src/vacuum_energy/
+
+Régua: conde-governante v1.0.8 média 1,00041294 q95=2,64 q99=3,90 | Bancada: 10.5281/zenodo.22649556
+
 Autor: Gustavo Alves Condé — ORCID 0009-0003-8264-7907 — Baixo Guandu/ES
 Base: Papel 2 Log-Uniforme 10.5281/zenodo.22700008
 Cadeia 11 DOIs - Pai: 10.5281/zenodo.21856036
