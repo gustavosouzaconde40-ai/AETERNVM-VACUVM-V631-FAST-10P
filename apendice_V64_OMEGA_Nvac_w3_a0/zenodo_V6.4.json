@@ -1,0 +1,72 @@
+{
+  "title": "AETERNVM VACVVM V6.4 - Apêndice de Ideias Aproveitáveis do Projeto Ômega: N_vac=1, w=3 Famílias, a0=c·H0/2π como Temperatura do Horizonte - Tradução para Medidas Imutáveis",
+  "description": "Apêndice V6.4 da teoria AETERNVM VACVVM - Conversão de 3 ideias garimpadas do Projeto Ômega (DOI 22695599 e 22753625) em medidas imutáveis com régua e bancada.\n\nBLOCO 2 - N_vac=1 vs 10^500: Z0=376,73Ω≡1, S_inst=280, k=8,45Ω=2π·Z0/S_inst, N_inst=22. Vácuo único medido na bancada RF 915MHz 8,45→50Ω Guanella + Câmara UHV Toroidal + Rectenna (DOI 22649556). Teste da régua C=Z_obs/1,00041294, q99=3,90317770 => C>3,903 = tentativa de vácuo extra = OUTLIER alta impedância. Navalha de Occam: 1 impedância vs 10^500 ajustes.\n\nBLOCO 3 - 3 Famílias como w=3 enrolamentos: 3 famílias (e,μ,τ) = 3 estados de enrolamento estável do vórtice de esvaziamento. Medida com Triângulo imutável DOI 22164502: 1M amostras ξ_b∈(1,2) densidade f_b=1/(x·ln b), centroide empírico 1,443012 vs teórico 1/ln2=1,442695 erro 0,02% APROVADO, dispersão 0,11 dex = RAR SPARC. S_inst=280≈3×93,33. N_inst=22 modos instáveis.\n\nBLOCO 4 - a0=c·H0/2π como temperatura do horizonte: Ponte micro-macro. Se horizonte tem T_H=ħ·H0/2π·k_B, borda do void tem a0= c·H0/2π. Versão AETERNVM medida: a_eff(z)=a_local=1,20e-10 m/s² constante z~0 a z~7,31. Validação DOI 22700008: REBELS-25 z=7,31 Vrot 374km/s => a_eff=1,22e-10 razão 1,0167 (1,7%) média régua 1,00041294 q95=2,64 APROVADO; SPARC 153 galáxias g_obs=g_bar+√(g_bar·g_vac) resíduo 0,033dex<0,11dex APROVADO. Dinâmica V6.3: dH/dt=-2ν∫ω·(∇×ω)dV+∫v·(∇×F_fogo)dV-Γ(m_eff²)H, Γ=Γ0·δ²/(m_eff^4+δ²), ΔH≈-(πΓ0/2)H(t*), E_entra=E_sai+E_perdas+E_depletada.\n\nMaterial descartado: Cb=[1,b), W1=0, reticulado coprimo 2,3=12 como caixa fixa, cociclo Klein-Dedekind eiπ/12, Forward-Breaking Theorem H1, Salto Topológico Xk+1, ACB abelha, AIDH estorninhos, Passe de Campo pinguim, κ_I, Sinceridade Vibracional, Azul Turquesa. Motivo: sem definição operacional e sem teste de régua.\n\nCadeia DOI Pai: 10.5281/zenodo.21856036 | Régua: 10.5281/zenodo.22096687 | Paper 2 V6.3: 10.5281/zenodo.22700008\nAutor: Gustavo Alves Condé, ORCID 0009-0003-8264-7907, Pesquisador Independente, Baixo Guandu/ES, Brasil\nLicença: CC BY 4.0\n",
+  "creators": [
+    {
+      "name": "Condé, Gustavo Alves",
+      "affiliation": "Independent Researcher, Baixo Guandu, Espírito Santo, Brazil",
+      "orcid": "0009-0003-8264-7907"
+    }
+  ],
+  "keywords": [
+    "AETERNVM VACVVM",
+    "N_vac=1",
+    "Z0 376.73Ω",
+    "k=8.45Ω",
+    "S_inst 280",
+    "w=3 familias",
+    "Atiyah-Singer Index 3",
+    "Triangulo 1/ln2 1.4427",
+    "a0=cH0/2π",
+    "a_eff 1.20e-10",
+    "REBELS-25 z=7.31",
+    "SPARC RAR",
+    "regua 1.00041294 q99 3.903",
+    "helicidade dH/dt",
+    "fogo temporal",
+    "bancada UHV RF 915MHz",
+    "Projeto Omega ideias aproveitáveis",
+    "vácuo único vs landscape 10^500"
+  ],
+  "license": "cc-by-4.0",
+  "version": "V6.4 - Apêndice Ideias Omega",
+  "language": "por",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21856036",
+      "relation": "isPartOf",
+      "resource_type": "other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22096687",
+      "relation": "uses",
+      "resource_type": "other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22700008",
+      "relation": "continues",
+      "resource_type": "other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22695599",
+      "relation": "references",
+      "resource_type": "other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22753625",
+      "relation": "references",
+      "resource_type": "other",
+      "scheme": "doi"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}
+
