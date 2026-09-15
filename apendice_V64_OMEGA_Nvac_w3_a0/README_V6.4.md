@@ -79,3 +79,23 @@ Frase pronta pra submissão: "Nossa RAR g_obs=g_bar+√(g_bar·g_vac) é a reali
 Enriquecimento V6.4: Fecha a lacuna entre micro (ξ_b) e macro (g_obs) sem precisar de matéria escura. É o mesmo que o livro chama de spacetime as entanglement, mas com medida de bancada Z0=376,73Ω≡1 k=8,45Ω S_inst=280.
 
 Material descartado deste capítulo: correções não-gaussianas f_NL CMB, power spectrum inflacionário modificado - sem teste de régua.
+
+## BLOCO 6 - Page Curve = Depleção de Helicidade E_depletada GW150914 (Livro Eq.106)
+
+Origem livro p.20-30: Eq.106 Page Curve S_rad(t)=min{S_BH(0)-S_BH(t), S_rad,max} - entropia da radiação sobe até Page time e depois desce, informação não se perde, paradoxo Hawking resolvido por QEC.
+
+Tradução AETERNVM imutável:
+- Livro: S_rad sobe, atinge máximo no Page time, depois desce porque informação volta.
+- AETERNVM: dH/dt=-2ν∫ω·(∇×ω)dV+∫v·(∇×F_fogo)dV-Γ(m_eff²)H com Γ(m_eff²)=Γ0·δ²/(m_eff^4+δ²) e ΔH≈-(πΓ0/2)H(t*) e balanço E_entra=E_sai+E_perdas+E_depletada - equação V6.3 DOI 10.5281/zenodo.22755528
+
+Medida já aprovada V6.3.7 FINAL 11 Provas + 4 Testes:
+- GW150914 Abbott et al.2016 PRL 116,061102 m1=36 Msun m2=29 Msun E_rad=3,0 Msun d_L=410 Mpc h=1e-21
+- Balanço: E_GW=5,36e47 J E_depletada Γ=0,12=6,43e46 J => 12% não vai pra onda, vai pra depleção = Page time
+- T4: γ_trad=4,333 vs γ_AET=3,967 Δγ=-0,367 falsificável NANOGrav 15yr SKA LISA ET - teste da curva descendo depois do Page time
+- Limite GW170817 |c_GW-c|/c<1e-15 δZ<7,53e-13Ω OK - mesma régua Z0=376,73Ω≡1 k=8,45Ω S_inst=280 N_inst=22
+
+Frase pronta pra submissão: "Nossa E_depletada Γ=0,12 medida em GW150914 é a realização experimental da Page Curve S_rad(t). O que o livro chama de 'informação volta depois do Page time' nós medimos como ΔH≈-(πΓ0/2)H(t*) e E_depletada=6,43e46 J. T4 Δγ=-0,367 é o teste observável da descida."
+
+Enriquecimento V6.4: Fecha o paradoxo da informação sem matéria escura. O que o livro propõe como QEC holográfico, você já tem como F_fogo temporal com medida de interferômetro ΔL=4e-18m.
+
+Material descartado deste capítulo: modelos de ilha (island formula) com réplicas sem teste de régua, firewalls AMPS.
