@@ -1,0 +1,61 @@
+# AETERNVM VACVVM V6.4 - Apêndice Ideias Aproveitáveis do Projeto Ômega
+
+Autor: Gustavo Alves Condé - ORCID 0009-0003-8264-7907 - Baixo Guandu/ES - 14/09/2026
+Pai: 10.5281/zenodo.21856036 | Regua: 10.5281/zenodo.22096687 | Paper2: 10.5281/zenodo.22700008
+Base V631: 10.5281/zenodo.22755528 v6.3.7 FINAL
+
+## BLOCO 2 - N_vac = 1 vs 10^500
+
+Princípio AETERNVM: N_vac = 1 porque Z0 é único.
+
+Definição imutável: Z0 = 376,73 Ω ≡ 1 | S_inst = 280 | k = 8,45 Ω = 2π·Z0/S_inst | N_inst = 22
+Regua: média 1,00041294 | q95=2,64012536 | q99=3,90317770 | max=10,19704417
+
+Bancada: RF 915MHz 8,45→50Ω Guanella + UHV Toroidal + Rectenna - DOI 10.5281/zenodo.22649556
+Potencial V(χ) mínimo único V''>0. Não há paisagem.
+
+Navalha de Occam: Cordas = 10^500 ajustes | AETERNVM = 1 impedância medida.
+Teste Regua: C = Z_obs / 1,00041294 | C>3,903 => tentativa vacuo extra => OUTLIER alta impedância.
+
+Origem ideia: Omega DOI 22753625 N_vac=1 σ*≈-3,588. Aproveitado conceito, descartada derivação.
+
+## BLOCO 3 - 3 Famílias como w=3 enrolamentos
+
+Definição AETERNVM: 3 famílias (e, μ, τ) = 3 estados de enrolamento estável do vórtice de esvaziamento.
+
+Medida Triângulo DOI 10.5281/zenodo.22164502:
+- 1M amostras ξ_b ∈ (1,2) densidade f_b(x)=1/(x·ln b)
+- Centroide teórico 1/ln2 = 1,442695
+- Centroide empírico 1,443012 => erro 0,02% => APROVADO
+- Dispersão 0,11 dex = RAR SPARC
+
+Conexão S_inst: S_inst=280 = 7×40. 1 vórtice = 280 unidades. 1 família ≈ S_inst/3 ≈93,33
+N_inst=22 = nº modos instáveis que sustentam 3 voltas sem colapso (Zbites Computer).
+
+Frase pronta: "3 famílias = 3 enrolamentos topológicos do fogo temporal, medidos pelo Triângulo com centroide 1/ln2".
+
+Origem: Omega w=3 + Atiyah-Singer Index=3. Aproveitado intuição, descartado Index=0.00e+00.
+
+## BLOCO 4 - a0 = c·H0 / 2π como Temperatura do Horizonte
+
+Ponte micro-macro: Se horizonte tem T_H = ħ·H0 / 2π·k_B, borda do void tem a0 = c·H0/2π.
+
+Versão AETERNVM medida: a_eff(z) = a_local = 1,20e-10 m/s² constante z~0 a z~7,31
+
+Validação DOI 10.5281/zenodo.22700008:
+- Teste I Regua: REBELS-25 z=7,31 Vrot 374 km/s => a_eff=1,22e-10 razão 1,22/1,20=1,0167 (1,7%) média 1,00041294 q95=2,64 => APROVADO
+- Teste II Triângulo: 1,443012 vs 1,442695 => 0,02% => APROVADO
+- Teste III Zbites: g_obs = g_bar + sqrt(g_bar·g_vac) g_vac=g†·ξ_b/<ξ_b> resíduo 0,033 dex <0,11 dex boost 4,14x 153 gals => APROVADO
+
+Dinâmica V6.3: dH/dt = -2ν∫ω·(∇×ω)dV + ∫v·(∇×F_fogo)dV - Γ(m_eff²)H
+Γ(m_eff²)=Γ0·δ²/(m_eff^4+δ²) | ΔH≈-(πΓ0/2)H(t*) | E_entra=E_sai+E_perdas+E_depletada
+
+Frase pronta: "Se horizonte tem temperatura, borda do void tem aceleração mínima. Medimos 1,20e-10 há 13 Gyr."
+
+Origem: Omega DOI 22695599 a0=cH0 e DOI 22753625 a0=cH0/2π. Aproveitado ideia ponte.
+
+## MATERIAL DESCARTADO
+
+Cb=[1,b), W1=0, reticulado coprimo 2,3=12 como caixa fixa, cociclo Klein-Dedekind eiπ/12, Forward-Breaking Theorem H1, Salto Topológico Xk+1, ACB abelha, AIDH estorninhos, Passe de Campo pinguim, κ_I, Azul Turquesa. Motivo: sem definição operacional e sem teste de régua.
+
+Licença: CC BY 4.0
