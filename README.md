@@ -1,5 +1,14 @@
-https://doi.org/10.5281/zenodo.22760120
-DOI Conceito (todas versões): https://doi.org/10.5281/zenodo.22735900
+## Citação Oficial V6.6 T8 (2026-09-17) - ATUAL
+**DOI Conceito (todas as versões):** 10.5281/zenodo.22735900
+**DOI V6.6 T8 GitHub Auto (oficial v6.6-T8-DIAMOND):** 10.5281/zenodo.22817486
+**DOI V6.6 T8 Manual Dataset (completo com PDFs):** 10.5281/zenodo.22818036
+**Paper base T8:** Jing et al. 2026 Sci Adv 10.1126/sciadv.aea8318 - g33=82.2 mV·m/N, 70mV @1.4% strain, 7000 ciclos, 600K
+**Bancada preservada:** Z0=376.730313668 Ω≡1, S_inst=280→ρ_Λ=1e-47 GeV4, k=8.45Ω, N_inst=22.29, R_K/k=3053.6, Régua Conde v1.0.8 média 1.00041294 q95=2.64 q99=3.90
+
+Links diretos:
+https://doi.org/10.5281/zenodo.22818036
+https://doi.org/10.5281/zenodo.22817486
+https://doi.org/10.5281/zenodo.22735900
 
 # AETERNVM VACUVM V631-FAST-10P V6.4 - 14 Provas + 7 Testes
 
