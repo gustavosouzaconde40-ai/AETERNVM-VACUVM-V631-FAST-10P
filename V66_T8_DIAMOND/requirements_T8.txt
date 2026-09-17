@@ -1,0 +1,12 @@
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+astropy>=5.2
+# Para integração com AETERNVMVACUVM existente
+# cobaya
+# eftcamb
+# conde-governante (local: pip install -e ../conde-governante)
+
+# Hardware opcional
+# pyvisa  # para wattímetro / piezometer
+# nidaqmx  # para DAQ de deformação
