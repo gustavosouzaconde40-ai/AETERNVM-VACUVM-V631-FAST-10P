@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o conforme abaixo."
+title: "AETERNVM VACUVM V6.6 OMEGA-EXT T8 - Membrana de Diamante Piezoelétrico 5μm UHV - g33=82.2 mV·m/N - Integração Toroidal e Gerador P_res"
+version: v6.6-T8-DIAMOND
+date-released: 2026-09-17
+authors:
+    - family-names: "Conde"
+    given-names: "Gustavo Alves"
+    orcid: "https://orcid.org/0009-0003-8264-7907"
+    affiliation: "AETERNVM VACUVM Research - Itaguaçu, ES, Brasil"
+identifiers:
+    - type: doi
+    value: 10.5281/zenodo.22818036
+    description: "DOI V6.6 T8 Manual Dataset"
+    - type: doi
+    value: 10.5281/zenodo.22817486
+    description: "DOI V6.6 T8 GitHub Auto"
+    - type: doi
+    value: 10.5281/zenodo.22735900
+    description: "DOI Conceito - Pai de todas as versões"
+    - type: doi
+    value: 10.1126/sciadv.aea8318
+    description: "Paper base T8 - Jing et al. 2026"
+repository-code: "https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P"
+url: "https://zenodo.org/records/22818036"
+abstract: "V6.6 T8 integra membrana diamante 5um g33=82.2 mV.m/N 70mV @1.4% strain 7000 ciclos 600K. Bancada: Z0=376.730313668 Ohm=1 S_inst=280 N_inst=22.29 k=8.45 R_K/k=3053.6 Regua v1.0.8 media 1.00041294 q95=2.64"
+keywords:
+    - "diamante piezoeletrico"
+    - "UHV"
+    - "V6.6"
+    - "g33"
+    - "AETERNVM VACUVM"
+license: MIT
