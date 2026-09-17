@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o usando os metadados abaixo."
+title: "AETERNVM VACUVM V6.6 OMEGA-EXT T8 - Membrana de Diamante Piezoelétrico 5μm UHV"
+version: "v6.6-T8-DIAMOND"
+date-released: "2026-09-17"
+authors:
+  - family-names: "Alves Condé"
+    given-names: "Gustavo"
+    orcid: "https://orcid.org/0009-0003-8264-7907"
+    affiliation: "ENGINE Labs / Independent Researcher, Baixo Guandu / Itaguaçu, ES, Brazil"
+doi: "10.5281/zenodo.22817486"
+url: "https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P"
+repository-code: "https://github.com/gustavosouzaconde40-ai/AETERNVM-VACUVM-V631-FAST-10P"
+license: "CC-BY-4.0"
+keywords:
+  - "diamante piezoelétrico"
+  - "UHV"
+  - "câmara toroidal"
+  - "AETERNVM VACUVM"
+  - "Z0=376.73"
+  - "g33"
+  - "Science Advances"
+  - "membrana 5μm"
+  - "V6.6"
+  - "P_res"
+  - "vacuum depletion"
+abstract: >
+  V6.6 T8 integra a membrana piezoelétrica de diamante policristalino de 5 μm 
+  (Jing et al., Science Advances 2026, DOI 10.1126/sciadv.aea8318) como transdutor 
+  ativo na Câmara UHV Toroidal e no Gerador P_res, sem alterar a bancada física 
+  (Z0 = 376.73 Ω, k = 8.45 Ω, S_inst = 280). Inclui protocolo experimental 
+  falsificável (Teste T8), emulação, projeto de fixture e cadeia eletrônica com 
+  blindagem RF.
+references:
+  - type: article
+    authors:
+      - family-names: "Jing"
+        given-names: "et al."
+    title: "Uncovering piezoelectric effect in polycrystalline diamond membranes"
+    year: 2026
+    journal: "Science Advances"
+    volume: "12"
+    doi: "10.1126/sciadv.aea8318"
