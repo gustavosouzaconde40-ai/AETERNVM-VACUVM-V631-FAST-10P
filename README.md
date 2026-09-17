@@ -88,3 +88,25 @@ Arquivo: SINTESE-GW150914-V631.2.md - Figura: fig_GW150914_T4_fundo.png
 - Engenharia: 10.5281/zenodo.22672602 - P_res F_res T_res Propulsor A8.0
 - 6 Provas histórico: 10.5281/zenodo.22307797
 - Paper2 Log-Uniforme + V6.3: 10.5281/zenodo.22700008 e 10.5281/zenodo.22735900
+- ## V6.6 OMEGA-EXT T8 - Diamante Piezoelétrico UHV (NEW)
+
+**DOI Conceito:** https://doi.org/10.5281/zenodo.22735900 | Base V6.3.3: https://doi.org/10.5281/zenodo.22735900
+**Paper base T8:** Jing et al. 2026 Science Advances 12, eaea8318 - DOI 10.1126/sciadv.aea8318 - diamante 5μm policristalino, g33=82.2 mV·m/N, 70mV @1.4% strain, 7000 ciclos, 600K estável
+
+### O que é T8?
+Integração da membrana piezoelétrica de diamante como transdutor ativo dentro da Câmara UHV Toroidal e Gerador P_res, sem quebrar bancada:
+- Z0=376.730313668 Ω ≡1, S_inst=280 → ρ_Λ=1e-47 GeV4, k=8.45 Ω, N_inst=22.29
+- Régua Conde v1.0.8 média 1.00041294 q95=2.64 q99=3.90
+
+### Arquivos T8
+- `V66_T8_DIAMOND/01_SPEC_T8_DIAMANTE_V66.md` - especificação
+- `V66_T8_DIAMOND/02_PROTOCOLO_BANCADA_T8.md` - protocolo de bancada
+- `V66_T8_DIAMOND/emulacao_diamond_UHV_T8.py` - emulação completa (4 modos + g33)
+- `V66_T8_DIAMOND/src_diamond_uhv_integration.py` - integração UHV + P_res
+- `V66_T8_DIAMOND/fig_T8_diamond_UHV_V66.png` - figura 15 bins
+
+### Falsificabilidade
+H0: V=0, H1: g33=82.2±q95 dentro da Régua. Teste cego 1000 amostras strain 0.35%-1.4%, z-score <2.64 APROVADO.
+
+Autor: Gustavo Alves Conde - ORCID 0009-0003-8264-7907
+- 
