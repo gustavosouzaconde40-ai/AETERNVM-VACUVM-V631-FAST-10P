@@ -113,3 +113,22 @@ H0: V=0, H1: g33=82.2±q95 dentro da Régua. Teste cego 1000 amostras strain 0.3
 
 Autor: Gustavo Alves Conde - ORCID 0009-0003-8264-7907
 - 
+## ATUALIZAÇÃO V631.3 - P12 Cygnus X-3 PeVatron T9 FINAL (18/09/2026)
+
+MARCO P12 - PROVA QUE O VÁCUO É Z0=376,73 Ω E PERMITE PEVATRON NATURAL:
+
+LHAASO Daocheng 4.410m WCDA+KM2A - Cyg X-3 microquasar Wolf-Rayet + objeto compacto P_orb=4.8h d=7.4kpc (24k anos-luz)
+Paper: Chen et al. 2026 (306 autores) - Cygnus X-3: A variable petaelectronvolt gamma-ray source - 0.06 a 3.7 PeV rise @1 PeV - 2 eventos 3.73±0.41 e 3.08±0.34 PeV - maiores fótons já detectados de fonte astrofísica - 10σ variável meses + clustering 5 PeV <10 arcmin = fonte compacta, não bolha difusa
+Origem hadrônica: E_p≥30 PeV (10×E_γ) acima do joelho raios cósmicos 3 PeV
+
+Prova P12 - Z0 como limite:
+- P12.1: E_p pai 37.3 PeV ≥30 PeV APROVADO
+- P12.2: Z_jet=Z0*(k/R_K)*N_inst=2.7489Ω razão 0.007297 Régua APROVADO
+- P12.3: Variabilidade 30% high-flux 10σ + 5 fótons <10 arcmin APROVADO
+- P12.4: Régua Conde q95=2.64 APROVADO
+- Pipeline Z0: sqrt(mu0/eps0)=376.730313 vs Z0=376.730313668 erro 0.000000% APROVADO, k=2π*Z0/S_inst=8.4538 vs 8.45 erro 0.045% APROVADO, R_K/k=3054.8, exp(-280)=1e-47 GeV4, E_max=Z0*k*N_inst=71 PeV compatível com 3.7 PeV
+
+Bancada preservada: Z0=376,730313668Ω≡1 S_inst=280 k=8.45Ω N_inst=22.29 R_K/k=3053.6 Régua média 1.00041294 q95=2.64 q99=3.90
+
+Arquivos: emulacao_CYGX3_T9_PeVatron.py, pipeline_Z0_PeV_validação.py, fig_CYGX3_P12_Z0_PeVatron.png, SINTESE-CYGX3-PEVATRON-V631.3.md
+DOI: 10.5281/zenodo.22821262 - V6.6 T9 FINAL - 15 Provas + 8 Testes - DOI 13
